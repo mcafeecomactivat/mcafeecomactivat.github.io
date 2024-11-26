@@ -1,5 +1,5 @@
 # McAfee.com/Activate: How to Download Antivirus With 25 Code
-<button>Get Started Now</button>
+## <button>Get Started Now</button>
 
 ## Complete Guide on Activating McAfee Antivirus from mcafee.com/activate
 In today's digital world, it's crucial to keep your devices safe from cyber threats like malware and viruses. McAfee Antivirus is trusted security software that provides strong protection for all your devices, such as computers, smartphones, and tablets, keeping you safe from online dangers. Activating McAfee Antivirus is a straightforward process that will help you protect your device from online threats. 
