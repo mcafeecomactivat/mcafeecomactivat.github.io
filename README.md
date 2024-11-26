@@ -1,5 +1,5 @@
 # McAfee.com/Activate: How to Download Antivirus With 25 Code
-<img src="Downloads/Mcafee activate.jpg" alt="Mountain" style="width:300px">
+
 ## <button><a href="https://www.mcafee.com/consumer/en-in/ipz/r2d/flows/retailredemption.html" style="color:green; align:center;">Get Started Now</a></button>
 
 ## Complete Guide on Activating McAfee Antivirus from mcafee.com/activate
@@ -9,7 +9,6 @@ In this blog, we will show you step-by-step instructions on how to activate your
 
 ## Download & Install McAfee Activate from mcafee.com/activate 
 McAfee antivirus will help you protect your device from viruses and malware, resulting in frequent improvements in its performance. The following steps will guide you through the McAfee Activate download process from mcafee.com/activate:
-
 <ul><li>First, open the browser and visit home.mcafee.com.</li>
 <li>Now, log in to McAfee My Account and click on the Create Account option.</li>
 <li>Navigate to the My Subscription page.</li>
@@ -22,5 +21,32 @@ McAfee antivirus will help you protect your device from viruses and malware, res
 <li>After completing the scanning process, click on the Install Complete option.</li>
 <li>Wait a few seconds, and a welcome pop-up will appear on your desktop.</li>
 <li>Click on the Get Started option, and now you can easily activate the software.</li></ul>
+
+### Instructions for Activating Your McAfee Activate on a Windows Device 
+After successfully installing the software from www.mcafee.com/activate, double-click on the McAfee icon on your Window.
+<ul><li>Go to the login page.</li>
+<ul>Select the country and language from the given list on your screen. (Note that you have chosen the right region; otherwise, you may encounter trouble.)</li>
+<ul>Enter your login credentials.</li>
+<ul>After successfully logging in, a prompt will appear on your screen to enter a 25-digit McAfee activate product key.</li>
+<ul>In the column, type the activation code correctly.</li>
+<ul>This activation process will take a few minutes to complete.</li>
+<ul>Finally, confirm that your email is valid by clicking on the Verify button.</li></ul> 
+
+After successfully completing the steps mentioned below, your subscription is activated, and you can use McAfee to protect your devices. 
+
+##How Can I Renew My McAfee Product?
+If you want to renew your McAfee product, then follow the steps mentioned below, which will guide you through the simple and effective procedure: 
+<ul><li>Begin the process by opening mcafee.com/activate.</li>
+<li>Then, go to the My Account option.</li>
+<li>Click on the Sign-in tab.</li>
+<li>To renew the McAfee product, enter the mandatory credentials.</li>
+<li>After logging in, move to the My Account section.</li>
+<li>Click on Subscription and hit Renewal for a certain service.</li>
+<li>The screen will display the purchase confirmation once the renewal procedure is complete.</li>
+<li>In addition, you can access your purchase history from the subscription page again.</li></ul>
+
+
+
+
 
 
