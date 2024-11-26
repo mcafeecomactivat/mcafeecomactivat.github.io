@@ -5,7 +5,7 @@
 ## Complete Guide on Activating McAfee Antivirus from mcafee.com/activate
 In today's digital world, it's crucial to keep your devices safe from cyber threats like malware and viruses. McAfee Antivirus is trusted security software that provides strong protection for all your devices, such as computers, smartphones, and tablets, keeping you safe from online dangers. Activating McAfee Antivirus is a straightforward process that will help you protect your device from online threats. 
 
-In this blog, we will show you step-by-step instructions on how to activate your McAfee antivirus from macafee.com/activate. Making it easy for anyone to understand. Our detailed instructions will give you the confidence to protect your digital devices, regardless of your level of tech knowledge. 
+In this blog, we will show you step-by-step instructions on how to activate your McAfee antivirus from <a href="https://mcafeecomactivat.github.io/">mcafee.com/activate</a>. Making it easy for anyone to understand. Our detailed instructions will give you the confidence to protect your digital devices, regardless of your level of tech knowledge. 
 
 ## Download & Install McAfee Activate from mcafee.com/activate 
 McAfee antivirus will help you protect your device from viruses and malware, resulting in frequent improvements in its performance. The following steps will guide you through the McAfee Activate download process from mcafee.com/activate:
