@@ -24,7 +24,7 @@ McAfee antivirus will help you protect your device from viruses and malware, res
 
 ### Instructions for Activating Your McAfee Activate on a Windows Device 
 After successfully installing the software from www.mcafee.com/activate, double-click on the McAfee icon on your Window.
-<li>Go to the login page.</li>
+<ul><li>Go to the login page.</li>
 <li>Select the country and language from the given list on your screen. (Note that you have chosen the right region; otherwise, you may encounter trouble.)</li>
 <li>Enter your login credentials.</li>
 <li>After successfully logging in, a prompt will appear on your screen to enter a 25-digit McAfee activate product key.</li>
