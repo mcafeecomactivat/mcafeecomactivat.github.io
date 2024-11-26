@@ -34,7 +34,7 @@ After successfully installing the software from www.mcafee.com/activate, double-
 
 After successfully completing the steps mentioned below, your subscription is activated, and you can use McAfee to protect your devices. 
 
-##How Can I Renew My McAfee Product?
+## How Can I Renew My McAfee Product?
 If you want to renew your McAfee product, then follow the steps mentioned below, which will guide you through the simple and effective procedure: 
 <ul><li>Begin the process by opening mcafee.com/activate.</li>
 <li>Then, go to the My Account option.</li>
@@ -45,8 +45,10 @@ If you want to renew your McAfee product, then follow the steps mentioned below,
 <li>The screen will display the purchase confirmation once the renewal procedure is complete.</li>
 <li>In addition, you can access your purchase history from the subscription page again.</li></ul>
 
-
-
-
-
-
+### How to Activate McAfee Software on Mac Device?
+If you are a Mac user, then follow the below-mentioned instructions to easily activate McAfee software on your Mac device:
+<ul><li>After downloading and installing McAfee from mcafee.com/activate, double-click the McAfee icon on your Mac device.</li>
+<li>On your screen, the mcafee.com/activate login page will appear.</li>
+<li>Enter the login credentials, then click on the login tab.</li>
+<li>Now, type the activated McAfee 25-digit product key and activation code.</li>
+<li>At last, wait until the activation process is completed successfully.</li></ul>
