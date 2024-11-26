@@ -8,17 +8,18 @@ In this blog, we will show you step-by-step instructions on how to activate your
 
 ## Download & Install McAfee Activate from mcafee.com/activate 
 McAfee antivirus will help you protect your device from viruses and malware, resulting in frequent improvements in its performance. The following steps will guide you through the McAfee Activate download process from mcafee.com/activate:
-First, open the browser and visit home.mcafee.com.
-Now, log in to McAfee My Account and click on the Create Account option.
-Navigate to the My Subscription page.
-Select the product and click the Download option.
-Next, execute the downloaded setup file.
-The pop-up window will appear on your desktop. It will prompt you to authorize the software to perform modifications on your device.
-Click on the Yes tab to allow the users to begin the installation process.
-The software begins scanning your computer once the installation process is complete.
-The scanning process will be done in three different stages, i.e., application check, device check, and software check.
-After completing the scanning process, click on the Install Complete option.
-Wait a few seconds, and a welcome pop-up will appear on your desktop.
-Click on the Get Started option, and now you can easily activate the software. 
+
+<ul><li>First, open the browser and visit home.mcafee.com.</li>
+<li>Now, log in to McAfee My Account and click on the Create Account option.</li>
+<li>Navigate to the My Subscription page.</li>
+<li>Select the product and click the Download option.</li>
+<li>Next, execute the downloaded setup file.</li>
+<li>The pop-up window will appear on your desktop. It will prompt you to authorize the software to perform modifications on your device.</li>
+<li>Click on the Yes tab to allow the users to begin the installation process.</li>
+<li>The software begins scanning your computer once the installation process is complete.</li>
+<li>The scanning process will be done in three different stages, i.e., application check, device check, and software check.</li>
+<li>After completing the scanning process, click on the Install Complete option.</li>
+<li>Wait a few seconds, and a welcome pop-up will appear on your desktop.</li>
+<li>Click on the Get Started option, and now you can easily activate the software.</li></ul>
 
 
