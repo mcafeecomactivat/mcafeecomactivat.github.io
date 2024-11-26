@@ -1,5 +1,5 @@
 # McAfee.com/Activate: How to Download Antivirus With 25 Code
-<img src="C:\Users\Admin 5\Downloads\Mcafee activate.jpg" alt="Mountain" style="width:300px">
+<img src="C:/Users/Admin 5/Downloads/Mcafee activate.jpg" alt="Mountain" style="width:300px">
 ## <button><a href="https://www.mcafee.com/consumer/en-in/ipz/r2d/flows/retailredemption.html" style="color:green; align:center;">Get Started Now</a></button>
 
 ## Complete Guide on Activating McAfee Antivirus from mcafee.com/activate
