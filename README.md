@@ -1,5 +1,6 @@
-# McAfee.com/Activate: How to Download Antivirus With 25 Codes
-<img src="Mcafee activate.jpg">
+# McAfee.com/Activate: How to Download Antivirus With 25 Code
+<img src="[Mcafee activate.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmcafeecomactivate-enter-product-key-activate-mcafee-jolly-joseph&psig=AOvVaw3SHqsutazBale7NBssVlaG&ust=1732686866467000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiel92n-YkDFQAAAAAdAAAAABAE)">
+
 ## <button><a href="https://www.mcafee.com/consumer/en-in/ipz/r2d/flows/retailredemption.html" style="color:green; align:center;">Get Started Now</a></button>
 
 ## Complete Guide on Activating McAfee Antivirus from mcafee.com/activate
