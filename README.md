@@ -1,5 +1,5 @@
-# McAfee.com/Activate: How to Download Antivirus With 25 Codes
-<img src=""https://www.w3schools.com/images/picture.jpg" alt="Mountain" style="width:300px"">
+# McAfee.com/Activate: How to Download Antivirus With 25 Codel
+<img src="https://www.w3schools.com/images/picture.jpg" alt="Mountain" style="width:300px">
 ## <button><a href="https://www.mcafee.com/consumer/en-in/ipz/r2d/flows/retailredemption.html" style="color:green; align:center;">Get Started Now</a></button>
 
 ## Complete Guide on Activating McAfee Antivirus from mcafee.com/activate
